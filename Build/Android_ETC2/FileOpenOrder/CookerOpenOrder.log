@@ -1,0 +1,739 @@
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/Bubble.uasset" 0
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/Bubble_Mat.uasset" 1
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/Bubbles.uasset" 2
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/NewMaterial.uasset" 3
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/Swizzle.uasset" 4
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/VectorToRadialValue.uasset" 5
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/NewMaterial1.uasset" 6
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/VirtualJoystick_Background_blue.uasset" 7
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/VirtualJoystick_Thumb_2_blue.uasset" 8
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/CameraDirectionVector.uasset" 9
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/DepthFromWorldPosition.uasset" 10
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/TeleportVR/Materials/MF_OccludedPixels.uasset" 11
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/TeleportVR/Materials/TeleportMCP.uasset" 12
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/TeleportVR/Materials/TilingNoise.uasset" 13
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/TeleportVR/Materials/M_TeleportPreviews.uasset" 14
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/TeleportVR/Materials/M_Teleport_VR.uasset" 15
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.uasset" 16
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_M.uasset" 17
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_N.uasset" 18
+"../../../Engine/Content/EngineMaterials/DefaultMaterial.uasset" 19
+"../../../Engine/Content/BasicShapes/Cylinder.uasset" 20
+"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" 21
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/Destination.uasset" 22
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/Destination_Water.uasset" 23
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/Air_Gap.uasset" 24
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/Widgets/Label/Label_Border.uasset" 25
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/Widgets/Label/Border_Mat.uasset" 26
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/Widgets/Label/Border_Pulse_Mat.uasset" 27
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/Widgets/Label/Label.uasset" 28
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/Widgets/Label/Label_Hand.uasset" 29
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/Air_Gap/Air_Gap_Widget.uasset" 30
+"../../../Engine/Content/EngineMaterials/WorldGridMaterial.uasset" 31
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/Water_Cylinder.uasset" 32
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/Air_Gap/Air_Gap_Blueprint.uasset" 33
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/Combi_Valve/Combi_Valve_Widget.uasset" 34
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/RiverShader/Materials/Mtl3a.uasset" 35
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/RiverShader/Materials/fbx_Body_57.uasset" 36
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/RiverShader/Materials/Mtl6b.uasset" 37
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/RiverShader/Materials/fbx_Body_71.uasset" 38
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/RiverShader/Materials/Mtl.uasset" 39
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/RiverShader/Materials/fbx_Body_72.uasset" 40
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/RiverShader/Materials/Mtl2.uasset" 41
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/RiverShader/Materials/fbx_Body_73.uasset" 42
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/RiverShader/Materials/fbx_Body_74.uasset" 43
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/RiverShader/Materials/Mtl5.uasset" 44
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/RiverShader/Materials/fbx_Body_75.uasset" 45
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/RiverShader/Materials/Mtla.uasset" 46
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/RiverShader/Materials/fbx_Body_81.uasset" 47
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/RiverShader/Materials/texture72.uasset" 48
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/RiverShader/Materials/fbx_Body_85.uasset" 49
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/Combi_Valve/Combi_valve_Blueprint.uasset" 50
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/RiverShader/Materials/Mtl16.uasset" 51
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/D2/D2_Widget.uasset" 52
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/RiverShader/Materials/fbx_3DGeom_677.uasset" 53
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/RiverShader/Materials/Mtl17.uasset" 54
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/RiverShader/Materials/fbx_3DGeom_678.uasset" 55
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/RiverShader/Materials/Mtl63.uasset" 56
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/RiverShader/Materials/fbx_Body_58.uasset" 57
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/RiverShader/Materials/Mtl6a.uasset" 58
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/RiverShader/Materials/fbx_Body_69.uasset" 59
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/D2/d2_discharge_pipe_Blueprint.uasset" 60
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/Heat_Coil/Heat_Coil_Widget.uasset" 61
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/RiverShader/Materials/Mtl1.uasset" 62
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/RiverShader/Materials/fbx_3DGeom_34.uasset" 63
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/RiverShader/Materials/Mtl22.uasset" 64
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/RiverShader/Materials/fbx_Body_12.uasset" 65
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/Heat_Coil/Heat_coil_Blueprint.uasset" 66
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/RiverShader/Materials/Mtl13.uasset" 67
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/RiverShader/Materials/fbx_3DGeom_649.uasset" 68
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/RiverShader/Materials/Mtl9.uasset" 69
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/RiverShader/Materials/fbx_3DGeom_653.uasset" 70
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/T+P_Valve/T+P_Valve_Widget.uasset" 71
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/T+P_Valve/T_P_valve_Blueprint.uasset" 72
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/RiverShader/Materials/Mtl6.uasset" 73
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/RiverShader/Materials/fbx_Body_14.uasset" 74
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/RiverShader/Materials/Mtl69.uasset" 75
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/RiverShader/Materials/fbx_Body_68.uasset" 76
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/RiverShader/Materials/Mtl18.uasset" 77
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/RiverShader/Materials/fbx_Body_8.uasset" 78
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/Tundish/Tundish_Widget.uasset" 79
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/Tundish/Tundish_Blueprint.uasset" 80
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/RiverShader/Materials/Mtl12.uasset" 81
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/RiverShader/Materials/NewMaterial_2.uasset" 82
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/RiverShader/Materials/Mtl46.uasset" 83
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/RiverShader/Materials/fbx_3DGeom_5607.uasset" 84
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/RiverShader/Materials/Mtl42.uasset" 85
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/RiverShader/Materials/fbx_3DGeom_5609.uasset" 86
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/RiverShader/Materials/Mtl44.uasset" 87
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/RiverShader/Materials/fbx_3DGeom_5610.uasset" 88
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/RiverShader/Materials/Mtl67.uasset" 89
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/RiverShader/Materials/fbx_Body_65.uasset" 90
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/Venturi/Venturi_Widget.uasset" 91
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/Venturi/venturi_Blueprint.uasset" 92
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/Movies/Open_Source.uasset" 93
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/Movies/Venturi0056_2.uasset" 94
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/MyriadPro-Regular.uasset" 95
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/MyriadPro-Regular_Font.uasset" 96
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/Movies/Open_Media_Player.uasset" 97
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/Movies/Open_Media_Player_Video.uasset" 98
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/Movies/Open_Media_Player_Video_Mat.uasset" 99
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/Movies/Venturi_Media_Player.uasset" 100
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/Movies/Venturi_Media_Player_Video.uasset" 101
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/Movies/Venturi_Media_Player_Video_Mat.uasset" 102
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/Air_Gap/CYL-AIR-GAP-P1.uasset" 103
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/Air_Gap/CYL-AIR-GAP-P2.uasset" 104
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/Air_Gap/cyl_sta_shower_page.uasset" 105
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/Balance/Balance_Page.uasset" 106
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/Combi_Valve/Combi_Page.uasset" 107
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/D2/D1-P4.uasset" 108
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/D2/D1_Pages/D1-P1.uasset" 109
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/D2/D1_Pages/D1-P2.uasset" 110
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/D2/D1_Pages/D1-P3.uasset" 111
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/D2/D2_Pages/D2-P1.uasset" 112
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/D2/D2_Pages/D2-P2.uasset" 113
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/D2/D2_Pages/D2-P3.uasset" 114
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/D2/D2_Pages/D2-P4.uasset" 115
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/D2/D2_Pages/D2-P6.uasset" 116
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/D2/D2_Pages/D2-P7.uasset" 117
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/D2/D2_Pages/D2-P8.uasset" 118
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/Diffuser/Diffuser_Page.uasset" 119
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/Heat_Coil/Coil_Page.uasset" 120
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/Primary_Flow/Prim_Flow_Page.uasset" 121
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/Primary_Return/Prim_Return_Page.uasset" 122
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/T+P_Valve/T_P-P1.uasset" 123
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/T+P_Valve/T_P-P2.uasset" 124
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/T+P_Valve/T_P-P3.uasset" 125
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/T+P_Valve/T_P-P4.uasset" 126
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/Tundish/Tundish_Page_1.uasset" 127
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/Tundish/Tundish_Page_2.uasset" 128
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/Tundish/Tundish_Page_3.uasset" 129
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/Venturi/Venturi_Page.uasset" 130
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/Venturi/Venturi_Page_2.uasset" 131
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/Widgets/CIPHE-logo__2_.uasset" 132
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/Widgets/Circle.uasset" 133
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/Widgets/Slider_Background.uasset" 134
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/Widgets/Slider_Inner_Background.uasset" 135
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/Widgets/Cyl_Stat_Shower_Widget.uasset" 136
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/Widgets/FABDEC-ROTATION-ICON.uasset" 137
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/Widgets/Menu_Arrow.uasset" 138
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/Widgets/Menu_Btn.uasset" 139
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/Widgets/Next_btn.uasset" 140
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/Widgets/Pan.uasset" 141
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/Widgets/Play_btn.uasset" 142
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/Widgets/Prev_btn.uasset" 143
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/Widgets/Reset_btn.uasset" 144
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/Widgets/spanner-icon.uasset" 145
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/Widgets/vrbutton.uasset" 146
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/Widgets/Menu_Widget.uasset" 147
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/TeleportVR/VR_Pawns/GoogleVRPawn.uasset" 148
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/VRGameMode.uasset" 149
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/Collision_Walls/Back_Wall_Collision_Box.uasset" 150
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/Collision_Walls/Floor_Collision_Box.uasset" 151
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/Collision_Walls/Front_Wall_Collision_Box.uasset" 152
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/Collision_Walls/Left_Wall_Collision_Box.uasset" 153
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/Collision_Walls/Right_Wall_Collision_Box.uasset" 154
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/Collision_Walls/Roof_Collision_Box.uasset" 155
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/D2/D2_Pages/D2-P5.uasset" 156
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/RiverShader/NewParticleSystem.uasset" 157
+"../../../Engine/Content/Functions/Engine_MaterialFunctions03/ComplexMotion/Motion_4WayChaos.uasset" 158
+"../../../Engine/Content/Engine_MI_Shaders/T_Base_Tile_Normal.uasset" 159
+"../../../Engine/Content/Functions/Engine_MaterialFunctions03/ComplexMotion/Motion_4WayChaos_Normal.uasset" 160
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/RiverShader/Materials/Functions/CustomDistanceFieldGradient.uasset" 161
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/Textures/water_n.uasset" 162
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/RiverShader/Textures/FlowWater_N.uasset" 163
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/RiverShader/Textures/StretchNoise_G.uasset" 164
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/RiverShader/Textures/WaterFoam2_D.uasset" 165
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/RiverShader/Textures/WaterFoam_D.uasset" 166
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/RiverShader/Materials/RiverWater_Mat.uasset" 167
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/RiverShader/Textures/SoftWater_N.uasset" 168
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/RiverShader/Materials/CalmRiverWater_Mat_Inst.uasset" 169
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/RiverShader/Materials/coldflow3.uasset" 170
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/RiverShader/Materials/COLDSHOWERMIXED.uasset" 171
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/RiverShader/Materials/CreekWater_Mat_Inst.uasset" 172
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/RiverShader/Materials/fbx_3DGeom_35.uasset" 173
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/RiverShader/Materials/fbx_3DGeom_51.uasset" 174
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/RiverShader/Materials/Mtl3.uasset" 175
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/RiverShader/Materials/fbx_3DGeom_52.uasset" 176
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/RiverShader/Materials/fbx_3DGeom_53.uasset" 177
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/RiverShader/Materials/Mtl7.uasset" 178
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/RiverShader/Materials/fbx_3DGeom_647.uasset" 179
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/RiverShader/Materials/fbx_3DGeom_759.uasset" 180
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/RiverShader/Materials/Mtl1b.uasset" 181
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/RiverShader/Materials/fbx_3DGeom_760.uasset" 182
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/RiverShader/Materials/Mtl21.uasset" 183
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/RiverShader/Materials/fbx_3DGeom_762.uasset" 184
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/RiverShader/Materials/Mtl1a.uasset" 185
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/RiverShader/Materials/fbx_3DGeom_763.uasset" 186
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/RiverShader/Materials/Mtl20.uasset" 187
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/RiverShader/Materials/fbx_3DGeom_764.uasset" 188
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/RiverShader/Materials/fbx_Body_1.uasset" 189
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/RiverShader/Materials/Mtl19.uasset" 190
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/RiverShader/Materials/fbx_Body_10.uasset" 191
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/RiverShader/Materials/fbx_Body_2.uasset" 192
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/RiverShader/Materials/fbx_Body_3.uasset" 193
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/RiverShader/Materials/fbx_Body_4.uasset" 194
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/RiverShader/Materials/fbx_Body_9.uasset" 195
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/RiverShader/Materials/green-carton-background-texture-paper-cardboard-44955571_Mat.uasset" 196
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/RiverShader/Materials/NewMaterial.uasset" 197
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/RiverShader/Materials/Effects/NewParticleSystem.uasset" 198
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/Splash/Splash.uasset" 199
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat3Components.uasset" 200
+"../../../Engine/Content/VREditor/Devices/Vive/VivePreController_MasksB.uasset" 201
+"../../../Engine/Content/VREditor/Devices/Oculus/OculusControllerMaterial.uasset" 202
+"../../../Engine/Content/VREditor/Devices/Oculus/OculusControllerMaterial_Inst.uasset" 203
+"../../../Engine/Content/VREditor/Devices/Oculus/OculusControllerMesh.uasset" 204
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/TeleportVR/VR_Pawns/GearVRPawn.uasset" 205
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/Unsorted/Destination.uasset" 206
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/Widgets/cardboard.uasset" 207
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/Widgets/Splash_Screen.uasset" 208
+"../../../Engine/Content/BasicShapes/Plane.uasset" 209
+"../../../Engine/Content/EditorLandscapeResources/DataLayer.uasset" 210
+"../../../Engine/Content/EditorMaterials/GizmoMaterial.uasset" 211
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Toggle.uasset" 212
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Visibility.uasset" 213
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicator.uasset" 214
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicatorMaterial.uasset" 215
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_ColorTrack.uasset" 216
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Anim.uasset" 217
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_AudioMaster.uasset" 218
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Director.uasset" 219
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Event.uasset" 220
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Fade.uasset" 221
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Float.uasset" 222
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Move.uasset" 223
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Slomo.uasset" 224
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Sound.uasset" 225
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Vector.uasset" 226
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage.uasset" 227
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_OOD.uasset" 228
+"../../../Engine/Content/EditorMaterials/Camera/CineMat.uasset" 229
+"../../../Engine/Content/EditorMaterials/Camera/MI_CineMat_Rig.uasset" 230
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Arm.uasset" 231
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Base.uasset" 232
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Body.uasset" 233
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Mount.uasset" 234
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Mount.uasset" 235
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Track.uasset" 236
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ChromeBall.uasset" 237
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ClearCoat.uasset" 238
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ClearCoatBlack.uasset" 239
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/Color_checker.uasset" 240
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ColorGrid.uasset" 241
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_GreyBall.uasset" 242
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/SM_ColorCalibrator.uasset" 243
+"../../../Engine/Content/EditorResources/BSPVertex.uasset" 244
+"../../../Engine/Content/EditorResources/EmptyActor.uasset" 245
+"../../../Engine/Content/EditorResources/S_Actor.uasset" 246
+"../../../Engine/Content/EditorResources/S_Trigger.uasset" 247
+"../../../Engine/Content/EditorResources/LightIcons/S_LightError.uasset" 248
+"../../../Engine/Content/EditorResources/SequenceRecorder/Countdown.uasset" 249
+"../../../Engine/Content/EditorResources/SequenceRecorder/RecordingIndicator.uasset" 250
+"../../../Engine/Content/EditorSounds/Notifications/CompileFailed.uasset" 251
+"../../../Engine/Content/EditorSounds/Notifications/CompileFailed_Cue.uasset" 252
+"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess.uasset" 253
+"../../../Engine/Content/EditorSounds/Notifications/CompileStart_Cue.uasset" 254
+"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess_Cue.uasset" 255
+"../../../Engine/Content/EngineDamageTypes/DmgTypeBP_Environmental.uasset" 256
+"../../../Engine/Content/EngineDebugMaterials/HeatmapGradient.uasset" 257
+"../../../Engine/Content/EngineDebugMaterials/BoneWeightMaterial.uasset" 258
+"../../../Engine/Content/EngineDebugMaterials/ClothMaterial.uasset" 259
+"../../../Engine/Content/EngineDebugMaterials/ClothMaterial_WF.uasset" 260
+"../../../Engine/Content/EngineDebugMaterials/DebugEditorMaterial.uasset" 261
+"../../../Engine/Content/EngineDebugMaterials/DebugMeshMaterial.uasset" 262
+"../../../Engine/Content/EngineDebugMaterials/GeomMaterial.uasset" 263
+"../../../Engine/Content/EngineFonts/Faces/RobotoBold.uasset" 264
+"../../../Engine/Content/EngineFonts/Faces/RobotoBoldItalic.uasset" 265
+"../../../Engine/Content/EngineFonts/Faces/RobotoItalic.uasset" 266
+"../../../Engine/Content/EngineFonts/Faces/RobotoLight.uasset" 267
+"../../../Engine/Content/EngineFonts/Faces/RobotoRegular.uasset" 268
+"../../../Engine/Content/EngineFonts/Roboto.uasset" 269
+"../../../Engine/Content/EngineFonts/Faces/RobotoTiny.uasset" 270
+"../../../Engine/Content/EngineFonts/RobotoTiny.uasset" 271
+"../../../Engine/Content/EngineMaterials/DefaultBloomKernel.uasset" 272
+"../../../Engine/Content/EngineMaterials/DefaultBokeh.uasset" 273
+"../../../Engine/Content/EngineMaterials/DefaultDiffuse.uasset" 274
+"../../../Engine/Content/EngineMaterials/DefaultDeferredDecalMaterial.uasset" 275
+"../../../Engine/Content/EngineMaterials/DefaultLightFunctionMaterial.uasset" 276
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat2Components.uasset" 277
+"../../../Engine/Content/EngineMaterials/DefaultPostProcessMaterial.uasset" 278
+"../../../Engine/Content/EngineFonts/RobotoDistanceField.uasset" 279
+"../../../Engine/Content/EngineMaterials/DefaultTextMaterialOpaque.uasset" 280
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid.uasset" 281
+"../../../Engine/Content/EngineMaterials/EditorBrushMaterial.uasset" 282
+"../../../Engine/Content/EngineMaterials/Good64x64TilingNoiseHighFreq.uasset" 283
+"../../../Engine/Content/EngineMaterials/MiniFont.uasset" 284
+"../../../Engine/Content/EngineMaterials/InvalidLightmapSettings.uasset" 285
+"../../../Engine/Content/EngineMaterials/M_InvalidLightmapSettings.uasset" 286
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/CameraOffset.uasset" 287
+"../../../Engine/Content/EngineMaterials/PhAT_JointLimitMaterial.uasset" 288
+"../../../Engine/Content/EngineMaterials/PreintegratedSkinBRDF.uasset" 289
+"../../../Engine/Content/EngineMaterials/RemoveSurfaceMaterial.uasset" 290
+"../../../Engine/Content/EngineMaterials/WeightMapPlaceholderTexture.uasset" 291
+"../../../Engine/Content/EngineResources/WhiteSquareTexture.uasset" 292
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough.uasset" 293
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked.uasset" 294
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque.uasset" 295
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked_OneSided.uasset" 296
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque_OneSided.uasset" 297
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent.uasset" 298
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent_OneSided.uasset" 299
+"../../../Engine/Content/EngineMeshes/Cube.uasset" 300
+"../../../Engine/Content/EngineMeshes/Cylinder.uasset" 301
+"../../../Engine/Content/EngineMeshes/Sphere.uasset" 302
+"../../../Engine/Content/EngineResources/Black.uasset" 303
+"../../../Engine/Content/EngineResources/DefaultTexture.uasset" 304
+"../../../Engine/Content/EngineResources/DefaultTextureCube.uasset" 305
+"../../../Engine/Content/EngineResources/GradientTexture0.uasset" 306
+"../../../Engine/Content/EngineSounds/Master.uasset" 307
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.uasset" 308
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness.uasset" 309
+"../../../Engine/Content/Maps/Templates/Thumbnails/Default.uasset" 310
+"../../../Engine/Content/Maps/Templates/Thumbnails/VR-Basic.uasset" 311
+"../../../Engine/Content/MobileResources/T_MobileControls_texture.uasset" 312
+"../../../Engine/Content/MobileResources/T_MobileMenu2.uasset" 313
+"../../../Engine/Content/MobileResources/HUD/AnalogHat.uasset" 314
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uasset" 315
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uasset" 316
+"../../../Engine/Content/MobileResources/HUD/DefaultVirtualJoysticks.uasset" 317
+"../../../Engine/Content/MobileResources/HUD/LeftVirtualJoystickOnly.uasset" 318
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_off.uasset" 319
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_on.uasset" 320
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_off.uasset" 321
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_on.uasset" 322
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton3.uasset" 323
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButtonFire.uasset" 324
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad.uasset" 325
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad2.uasset" 326
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad3.uasset" 327
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionStick.uasset" 328
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickInner.uasset" 329
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickOutter.uasset" 330
+"../../../Engine/Content/Tutorial/ContentIntroCurve.uasset" 331
+"../../../Engine/Content/Tutorial/Basics/TutorialAssets/icon_tab_Levels_40x.uasset" 332
+"../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/BlueprintInterface_64x.uasset" 333
+"../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/BlueprintMacroLibrary_64x.uasset" 334
+"../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/Blueprint_64x.uasset" 335
+"../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/Tutorial_BP_Interface.uasset" 336
+"../../../Engine/Content/Tutorial/Foliage/TutorialAssets/Foliage.uasset" 337
+"../../../Engine/Content/Tutorial/Landscape/TutorialAssets/Landscape.uasset" 338
+"../../../Engine/Content/Tutorial/Paper2D/TutorialAssets/Paper2DFlipbook_TutorialIcon.uasset" 339
+"../../../Engine/Content/Tutorial/Paper2D/TutorialAssets/Paper2DSprite_TutorialIcon.uasset" 340
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/icon_Editor_Preferences_General_40x.uasset" 341
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/icon_ShowSkeletalMeshes_40x.uasset" 342
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/TutorialMaterial.uasset" 343
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/T_SmokeSubUV_8X8.uasset" 344
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/T_soft_smoke.uasset" 345
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/M_smoke_subUV_blackbody.uasset" 346
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/TutorialParticleSystem.uasset" 347
+"../../../Engine/Content/VREditor/Devices/Generic/GenericHMDMaterial.uasset" 348
+"../../../Engine/Content/VREditor/Devices/Generic/GenericHMD.uasset" 349
+"../../../Engine/Content/VREditor/Devices/Vive/T_VivePreController_EM.uasset" 350
+"../../../Engine/Content/VREditor/Devices/Vive/VivePreController_MasksA.uasset" 351
+"../../../Engine/Content/VREditor/Devices/Vive/VivePreControllerDiffuse.uasset" 352
+"../../../Engine/Content/VREditor/Devices/Vive/VivePreControllerSpec.uasset" 353
+"../../../Engine/Content/VREditor/LaserPointer/VR_LaserPower_01.uasset" 354
+"../../../Engine/Content/VREditor/Devices/Vive/VivePreControllerMaterial.uasset" 355
+"../../../Engine/Content/VREditor/Devices/Vive/VivePreControllerMaterial_Inst.uasset" 356
+"../../../Engine/Content/VREditor/Devices/Vive/VivePreControllerMesh.uasset" 357
+"../../../Engine/Content/VREditor/FloatingText/LineMaterial.uasset" 358
+"../../../Engine/Content/VREditor/FloatingText/JointSphere.uasset" 359
+"../../../Engine/Content/VREditor/FloatingText/LineSegmentCylinder.uasset" 360
+"../../../Engine/Content/VREditor/Fonts/VRText_RobotoLarge.uasset" 361
+"../../../Engine/Content/VREditor/Fonts/VRTextMaterial.uasset" 362
+"../../../Engine/Content/VREditor/Fonts/TranslucentVRTextMaterial.uasset" 363
+"../../../Engine/Content/VREditor/LaserPointer/CursorPointer.uasset" 364
+"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial.uasset" 365
+"../../../Engine/Content/VREditor/LaserPointer/HoverMaterial.uasset" 366
+"../../../Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial.uasset" 367
+"../../../Engine/Content/VREditor/LaserPointer/TranslucentHoverMaterial.uasset" 368
+"../../../Engine/Content/VREditor/LaserPointer/HoverMesh.uasset" 369
+"../../../Engine/Content/VREditor/LaserPointer/LaserPointerMaterial.uasset" 370
+"../../../Engine/Content/VREditor/LaserPointer/LaserPointerMaterialInst.uasset" 371
+"../../../Engine/Content/VREditor/LaserPointer/TranslucentLaserPointerMaterialInst.uasset" 372
+"../../../Engine/Content/VREditor/LaserPointer/LaserPointerMesh.uasset" 373
+"../../../Engine/Content/VREditor/LaserPointer/LaserPointerMesh_End.uasset" 374
+"../../../Engine/Content/VREditor/LaserPointer/LaserPointerMesh_Start.uasset" 375
+"../../../Engine/Content/VREditor/Sounds/VR_teleport.uasset" 376
+"../../../Engine/Content/VREditor/Sounds/UI/Click_on_Button.uasset" 377
+"../../../Engine/Content/VREditor/Sounds/UI/Click_on_Button_Cue.uasset" 378
+"../../../Engine/Content/VREditor/Sounds/UI/Dockable_Window_Close.uasset" 379
+"../../../Engine/Content/VREditor/Sounds/UI/Dockable_Window_Drop.uasset" 380
+"../../../Engine/Content/VREditor/Sounds/UI/Dockable_Window_Open.uasset" 381
+"../../../Engine/Content/VREditor/Sounds/UI/Dockable_Window_Pick_Up.uasset" 382
+"../../../Engine/Content/VREditor/Sounds/UI/Drop_Item_From_ContentBrowser.uasset" 383
+"../../../Engine/Content/VREditor/Sounds/UI/Floating_UI_Open-001.uasset" 384
+"../../../Engine/Content/VREditor/Sounds/UI/Radial_Menu_FadeOut.uasset" 385
+"../../../Engine/Content/VREditor/Sounds/UI/Teleport_Mode_Entered.uasset" 386
+"../../../Engine/Content/VREditor/Teleport/TeleportDirectionMaterial.uasset" 387
+"../../../Engine/Content/VREditor/Teleport/TeleportDirectionMaterial_Inst.uasset" 388
+"../../../Engine/Content/VREditor/Teleport/TeleportDirectionMesh.uasset" 389
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxCorner.uasset" 390
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxEdge.uasset" 391
+"../../../Engine/Content/VREditor/TransformGizmo/PlaneTranslationHandle.uasset" 392
+"../../../Engine/Content/VREditor/TransformGizmo/Main.uasset" 393
+"../../../Engine/Content/VREditor/TransformGizmo/Xray.uasset" 394
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Dialog_Close.uasset" 395
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Dialog_Move.uasset" 396
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Key.uasset" 397
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Node.uasset" 398
+"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial_Inst.uasset" 399
+"../../../Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial_Inst.uasset" 400
+"../../../Engine/Content/VREditor/Devices/Vive/UE4_Logo.uasset" 401
+"../../../Engine/Content/VREditor/UI/M_ContentWindow.uasset" 402
+"../../../Engine/Content/VREditor/UI/SM_ContentWindow_01.uasset" 403
+"../../../Engine/Content/VREditor/UI/KeyDiskMaterial.uasset" 404
+"../../../Engine/Content/VREditor/UI/DiscMaterial.uasset" 405
+"../../../Engine/Content/VREditor/UI/SM_Radial_Disk.uasset" 406
+"../../../Engine/Content/VREditor/UI/ArrowMaterial.uasset" 407
+"../../../Engine/Content/VREditor/UI/SM_Radial_Pointer.uasset" 408
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/RadialGradient.uasset" 409
+"../../../Engine/Content/VREditor/WorldMovementGrid/SimpleGrid.uasset" 410
+"../../../Engine/Content/VREditor/WorldMovementGrid/GridMaterial.uasset" 411
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Density/ExponentialDensity.uasset" 412
+"../../../Engine/Content/VREditor/WorldMovementGrid/GridPostProcess.uasset" 413
+"../../../Engine/Content/EditorLandscapeResources/FlattenHeightMat.uasset" 414
+"../../../Engine/Content/VREditor/WorldMovementGrid/PlaneMesh.uasset" 415
+"../../Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.uasset" 416
+"../../Plugins/2D/Paper2D/Content/DummySprite.uasset" 417
+"../../Plugins/2D/Paper2D/Content/DefaultPaperTerrainMaterial.uasset" 418
+"../../Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset" 419
+"../../Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uasset" 420
+"../../Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uasset" 421
+"../../Plugins/Media/MediaCompositing/Content/DefaultMediaPlaneTexture.uasset" 422
+"../../Plugins/Media/MediaCompositing/Content/DefaultMediaPlaneMaterial.uasset" 423
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat4.uasset" 424
+"../../Plugins/Runtime/AppleARKit/Content/ARKitCameraMaterial.uasset" 425
+"../../Plugins/Runtime/GoogleVR/GoogleVRController/Content/BatteryIndicatorAlmostFull.uasset" 426
+"../../Plugins/Runtime/GoogleVR/GoogleVRController/Content/BatteryIndicatorCharging.uasset" 427
+"../../Plugins/Runtime/GoogleVR/GoogleVRController/Content/BatteryIndicatorCriticalLow.uasset" 428
+"../../Plugins/Runtime/GoogleVR/GoogleVRController/Content/BatteryIndicatorFull.uasset" 429
+"../../Plugins/Runtime/GoogleVR/GoogleVRController/Content/BatteryIndicatorLow.uasset" 430
+"../../Plugins/Runtime/GoogleVR/GoogleVRController/Content/BatteryIndicatorMaterial.uasset" 431
+"../../Plugins/Runtime/GoogleVR/GoogleVRController/Content/BatteryIndicatorMedium.uasset" 432
+"../../Plugins/Runtime/GoogleVR/GoogleVRController/Content/BatteryIndicatorUnknown.uasset" 433
+"../../Plugins/Runtime/GoogleVR/GoogleVRController/Content/ControllerParameters.uasset" 434
+"../../Plugins/Runtime/GoogleVR/GoogleVRController/Content/ControllerIdleTexture.uasset" 435
+"../../Plugins/Runtime/GoogleVR/GoogleVRController/Content/ControllerBaseMaterial.uasset" 436
+"../../Plugins/Runtime/GoogleVR/GoogleVRController/Content/ControllerAppTexture.uasset" 437
+"../../Plugins/Runtime/GoogleVR/GoogleVRController/Content/ControllerAppMaterial.uasset" 438
+"../../Plugins/Runtime/GoogleVR/GoogleVRController/Content/ControllerIdleMaterial.uasset" 439
+"../../Plugins/Runtime/GoogleVR/GoogleVRController/Content/ControllerMesh.uasset" 440
+"../../Plugins/Runtime/GoogleVR/GoogleVRController/Content/ControllerPadTexture.uasset" 441
+"../../Plugins/Runtime/GoogleVR/GoogleVRController/Content/ControllerPadMaterial.uasset" 442
+"../../Plugins/Runtime/GoogleVR/GoogleVRController/Content/ControllerReticleTexture.uasset" 443
+"../../Plugins/Runtime/GoogleVR/GoogleVRController/Content/ControllerRetMaterial.uasset" 444
+"../../Plugins/Runtime/GoogleVR/GoogleVRController/Content/ControllerSysTexture.uasset" 445
+"../../Plugins/Runtime/GoogleVR/GoogleVRController/Content/ControllerSysMaterial.uasset" 446
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/SplitComponents.uasset" 447
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/AppendMany.uasset" 448
+"../../Plugins/Runtime/GoogleVR/GoogleVRController/Content/GazeReticleMaterial.uasset" 449
+"../../Plugins/Runtime/GoogleVR/GoogleVRController/Content/GazeReticleMesh.uasset" 450
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/VectorLength.uasset" 451
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/LocalPosition.uasset" 452
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/ObjectScale.uasset" 453
+"../../Plugins/Runtime/GoogleVR/GoogleVRController/Content/LaserPointerTexture.uasset" 454
+"../../Plugins/Runtime/GoogleVR/GoogleVRController/Content/LaserPlaneMaterial.uasset" 455
+"../../Plugins/Runtime/GoogleVR/GoogleVRController/Content/LaserPlane.uasset" 456
+"../../Plugins/Runtime/GoogleVR/GoogleVRController/Content/TooltipTextMaterial.uasset" 457
+"../../Plugins/Runtime/GoogleVR/GoogleVRController/Content/TouchTexture.uasset" 458
+"../../Plugins/Runtime/GoogleVR/GoogleVRController/Content/TouchMaterial.uasset" 459
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/Balance/Widget/Balance_Widget.uasset" 460
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/RiverShader/Materials/Mtl64.uasset" 461
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/RiverShader/Materials/fbx_Body_59.uasset" 462
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/Balance/balanced_shower_outlet_pipe_Blueprint.uasset" 463
+"../../../Engine/Content/EngineSky/C_Sky_Cloud_Color.uasset" 464
+"../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uasset" 465
+"../../../Engine/Content/EngineSky/C_Sky_Zenith_Color.uasset" 466
+"../../../Engine/Content/EngineSky/T_Sky_Blue.uasset" 467
+"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uasset" 468
+"../../../Engine/Content/EngineSky/T_Sky_Stars.uasset" 469
+"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset" 470
+"../../../Engine/Content/EngineSky/SM_SkySphere.uasset" 471
+"../../../Engine/Content/EngineSky/BP_Sky_Sphere.uasset" 472
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/Cold_Feed_To_Cylinder/Cylinder_Cold_Feed_Widget.uasset" 473
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/RiverShader/Materials/Mtl36.uasset" 474
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/RiverShader/Materials/fbx_Body_24.uasset" 475
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/Cold_Feed_To_Cylinder/Cylinder_Cold_Feed_pipe_Blueprint.uasset" 476
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/RiverShader/Materials/Mtl74.uasset" 477
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/RiverShader/Materials/fbx_Body_91.uasset" 478
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/COMBI_VALVE_REMOVEABLE_COVER_Blueprint.uasset" 479
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/RiverShader/Materials/TANK.uasset" 480
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/Cylinder_Water_Blueprint.uasset" 481
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/Diffuser/Diffuser_Widget.uasset" 482
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/RiverShader/Materials/Mtl4.uasset" 483
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/RiverShader/Materials/fbx_3DGeom_93.uasset" 484
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/Diffuser/Diffuser_Blueprint.uasset" 485
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/Player_Controller.uasset" 486
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/Game_Mode.uasset" 487
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/Hot_Water_Outlet/Hot_Water_Outlet_Widget.uasset" 488
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/RiverShader/Materials/Mtl4a.uasset" 489
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/RiverShader/Materials/fbx_Body_36.uasset" 490
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/Hot_Water_Outlet/Hot_water_outlet_pipe_Blueprint.uasset" 491
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/Primary_Flow/Primary_Flow_Widget.uasset" 492
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/RiverShader/Materials/Mtl34.uasset" 493
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/RiverShader/Materials/fbx_Body_22.uasset" 494
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/Primary_Flow/Primary_Flow_Blueprint.uasset" 495
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/Primary_Return/Primary_Return_Widget.uasset" 496
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/RiverShader/Materials/Mtl29.uasset" 497
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/RiverShader/Materials/fbx_Body_17.uasset" 498
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/Primary_Return/primary_return_pipe_Blueprint.uasset" 499
+"../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset" 500
+"../../../Engine/Content/BasicShapes/Cube.uasset" 501
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/Widgets/CrouchWidget.uasset" 502
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/VR_Assets/CrouchWidgetScreen.uasset" 503
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/VR_Assets/Wall_Mounted_Screen.uasset" 504
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/TEstMap_BuiltData.uasset" 505
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/amended_cylinder_body_ue4/Materials/3S-Emblem.uasset" 506
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/amended_cylinder_body_ue4/Materials/3S.uasset" 507
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/amended_cylinder_body_ue4/Materials/CHROME.uasset" 508
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/amended_cylinder_body_ue4/Materials/CYLINSIDE.uasset" 509
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/amended_cylinder_body_ue4/Materials/CYLOUTER.uasset" 510
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/amended_cylinder_body_ue4/Materials/CYLTOP.uasset" 511
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/amended_cylinder_body_ue4/Materials/FabdecLogo-4c.uasset" 512
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/amended_cylinder_body_ue4/Materials/FabdecLogo-4c_Mat.uasset" 513
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/amended_cylinder_body_ue4/Materials/NewMaterial.uasset" 514
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/RiverShader/Materials/Coil_Hot.uasset" 515
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/RiverShader/Materials/COLDFLOW.uasset" 516
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/RiverShader/Materials/COLDFLOW2.uasset" 517
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/RiverShader/Materials/HOTFLOW.uasset" 518
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/RiverShader/Materials/Mtl24.uasset" 519
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/RiverShader/Materials/Mtl28.uasset" 520
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/RiverShader/Materials/Mtl40.uasset" 521
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/RiverShader/Materials/PF.uasset" 522
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/RiverShader/Materials/PR.uasset" 523
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/RiverShader/Materials/sweet-design-tile-floor-texture-16-free-floor-textures.uasset" 524
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/RiverShader/Materials/sweet-design-tile-floor-texture-16-free-floor-textures_Mat.uasset" 525
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/Widgets/CIPHE-logo__2__Mat.uasset" 526
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/Highlight_mat.uasset" 527
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/Highlight_mat_Red_Inst.uasset" 528
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/Highlight_mat_White_Inst.uasset" 529
+"../../../Engine/Content/MapTemplates/SM_Template_Map_Floor.uasset" 530
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/amended_cylinder_body_ue4/Geometries/0000259676c63b34c850.uasset" 531
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/amended_cylinder_body_ue4/Geometries/00003198e911bb5b59d0.uasset" 532
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/amended_cylinder_body_ue4/Geometries/0000c8404213420d62e8.uasset" 533
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/NewParticleSystem.uasset" 534
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/PRV/Geometries/00005d5fb163f9e48b88.uasset" 535
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/PRV/Geometries/0000e3c6040c8ea4e0a8.uasset" 536
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/RiverShader/Materials/fbx_3DGeom_1191.uasset" 537
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/RiverShader/Materials/Mtl26.uasset" 538
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/RiverShader/Materials/fbx_3DGeom_1192.uasset" 539
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/RiverShader/Materials/Mtl27.uasset" 540
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/RiverShader/Materials/fbx_3DGeom_1193.uasset" 541
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/RiverShader/Materials/Mtl2a.uasset" 542
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/RiverShader/Materials/fbx_3DGeom_1206.uasset" 543
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/RiverShader/Materials/fbx_3DGeom_1207.uasset" 544
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/RiverShader/Materials/Mtl30.uasset" 545
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/RiverShader/Materials/fbx_3DGeom_1322.uasset" 546
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/RiverShader/Materials/Mtl2b.uasset" 547
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/RiverShader/Materials/fbx_3DGeom_1323.uasset" 548
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/RiverShader/Materials/Mtl31.uasset" 549
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/RiverShader/Materials/fbx_3DGeom_1330.uasset" 550
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/RiverShader/Materials/Mtl32.uasset" 551
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/RiverShader/Materials/fbx_3DGeom_1331.uasset" 552
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/RiverShader/Materials/fbx_3DGeom_1345.uasset" 553
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/RiverShader/Materials/Mtl33.uasset" 554
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/RiverShader/Materials/fbx_3DGeom_1346.uasset" 555
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/RiverShader/Materials/fbx_3DGeom_2517.uasset" 556
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/RiverShader/Materials/fbx_3DGeom_2518.uasset" 557
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/RiverShader/Materials/fbx_3DGeom_3208.uasset" 558
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/RiverShader/Materials/fbx_3DGeom_3209.uasset" 559
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/RiverShader/Materials/fbx_3DGeom_3210.uasset" 560
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/RiverShader/Materials/fbx_3DGeom_3211.uasset" 561
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/RiverShader/Materials/Mtl48.uasset" 562
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/RiverShader/Materials/fbx_3DGeom_3213.uasset" 563
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/RiverShader/Materials/Mtl47.uasset" 564
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/RiverShader/Materials/fbx_3DGeom_3214.uasset" 565
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/RiverShader/Materials/Mtl45.uasset" 566
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/RiverShader/Materials/fbx_3DGeom_3215.uasset" 567
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/RiverShader/Materials/Mtl3b.uasset" 568
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/RiverShader/Materials/fbx_3DGeom_3216.uasset" 569
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/RiverShader/Materials/fbx_3DGeom_3217.uasset" 570
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/RiverShader/Materials/Mtl41.uasset" 571
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/RiverShader/Materials/fbx_3DGeom_3218.uasset" 572
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/RiverShader/Materials/fbx_3DGeom_3219.uasset" 573
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/RiverShader/Materials/Mtl43.uasset" 574
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/RiverShader/Materials/fbx_3DGeom_3220.uasset" 575
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/RiverShader/Materials/fbx_3DGeom_3221.uasset" 576
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/RiverShader/Materials/fbx_3DGeom_33.uasset" 577
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/RiverShader/Materials/fbx_3DGeom_3511.uasset" 578
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/RiverShader/Materials/fbx_3DGeom_3512.uasset" 579
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/RiverShader/Materials/Mtl11.uasset" 580
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/RiverShader/Materials/fbx_3DGeom_3513.uasset" 581
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/RiverShader/Materials/fbx_3DGeom_3716.uasset" 582
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/RiverShader/Materials/fbx_3DGeom_3717.uasset" 583
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/RiverShader/Materials/Mtl58.uasset" 584
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/RiverShader/Materials/fbx_3DGeom_4017.uasset" 585
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/RiverShader/Materials/fbx_3DGeom_4018.uasset" 586
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/RiverShader/Materials/fbx_3DGeom_4019.uasset" 587
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/RiverShader/Materials/fbx_3DGeom_4116.uasset" 588
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/RiverShader/Materials/Mtl59.uasset" 589
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/RiverShader/Materials/fbx_3DGeom_4117.uasset" 590
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/RiverShader/Materials/fbx_3DGeom_4118.uasset" 591
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/RiverShader/Materials/Mtl61.uasset" 592
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/RiverShader/Materials/fbx_3DGeom_5155.uasset" 593
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/RiverShader/Materials/Mtl62.uasset" 594
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/RiverShader/Materials/fbx_3DGeom_5156.uasset" 595
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/RiverShader/Materials/fbx_3DGeom_5460.uasset" 596
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/RiverShader/Materials/fbx_3DGeom_5461.uasset" 597
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/RiverShader/Materials/fbx_3DGeom_5606.uasset" 598
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/RiverShader/Materials/texture.uasset" 599
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/RiverShader/Materials/fbx_3DGeom_5608.uasset" 600
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/RiverShader/Materials/fbx_3DGeom_6105.uasset" 601
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/RiverShader/Materials/Mtl10.uasset" 602
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/RiverShader/Materials/fbx_3DGeom_6106.uasset" 603
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/RiverShader/Materials/fbx_3DGeom_646.uasset" 604
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/RiverShader/Materials/Mtl8.uasset" 605
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/RiverShader/Materials/fbx_3DGeom_648.uasset" 606
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/RiverShader/Materials/fbx_3DGeom_650.uasset" 607
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/RiverShader/Materials/Mtlb.uasset" 608
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/RiverShader/Materials/fbx_3DGeom_651.uasset" 609
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/RiverShader/Materials/fbx_3DGeom_652.uasset" 610
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/RiverShader/Materials/Mtl15.uasset" 611
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/RiverShader/Materials/fbx_3DGeom_654.uasset" 612
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/RiverShader/Materials/fbx_3DGeom_655.uasset" 613
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/RiverShader/Materials/Mtl14.uasset" 614
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/RiverShader/Materials/fbx_3DGeom_656.uasset" 615
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/RiverShader/Materials/fbx_3DGeom_657.uasset" 616
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/RiverShader/Materials/fbx_3DGeom_761.uasset" 617
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/RiverShader/Materials/fbx_3DGeom_94.uasset" 618
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/RiverShader/Materials/fbx_3DGeom_95.uasset" 619
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/RiverShader/Materials/Mtl23.uasset" 620
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/RiverShader/Materials/fbx_3DGeom_956.uasset" 621
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/RiverShader/Materials/fbx_3DGeom_957.uasset" 622
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/RiverShader/Materials/Mtl25.uasset" 623
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/RiverShader/Materials/fbx_Body_15.uasset" 624
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/RiverShader/Materials/Mtl35.uasset" 625
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/RiverShader/Materials/fbx_Body_23.uasset" 626
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/RiverShader/Materials/Mtl37.uasset" 627
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/RiverShader/Materials/fbx_Body_25.uasset" 628
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/RiverShader/Materials/Mtl38.uasset" 629
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/RiverShader/Materials/fbx_Body_26.uasset" 630
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/RiverShader/Materials/fbx_Body_27.uasset" 631
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/RiverShader/Materials/Mtl39.uasset" 632
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/RiverShader/Materials/fbx_Body_28.uasset" 633
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/RiverShader/Materials/fbx_Body_29.uasset" 634
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/RiverShader/Materials/fbx_Body_30.uasset" 635
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/RiverShader/Materials/fbx_Body_31.uasset" 636
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/RiverShader/Materials/fbx_Body_32.uasset" 637
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/RiverShader/Materials/Mtl49.uasset" 638
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/RiverShader/Materials/fbx_Body_35.uasset" 639
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/RiverShader/Materials/Mtl4b.uasset" 640
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/RiverShader/Materials/fbx_Body_37.uasset" 641
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/RiverShader/Materials/Mtl50.uasset" 642
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/RiverShader/Materials/fbx_Body_39.uasset" 643
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/RiverShader/Materials/Mtl51.uasset" 644
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/RiverShader/Materials/fbx_Body_40.uasset" 645
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/RiverShader/Materials/Mtl52.uasset" 646
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/RiverShader/Materials/fbx_Body_42.uasset" 647
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/RiverShader/Materials/Mtl53.uasset" 648
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/RiverShader/Materials/fbx_Body_43.uasset" 649
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/RiverShader/Materials/Mtl54.uasset" 650
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/RiverShader/Materials/fbx_Body_44.uasset" 651
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/RiverShader/Materials/Mtl55.uasset" 652
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/RiverShader/Materials/fbx_Body_45.uasset" 653
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/RiverShader/Materials/Mtl56.uasset" 654
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/RiverShader/Materials/fbx_Body_46.uasset" 655
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/RiverShader/Materials/Mtl57.uasset" 656
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/RiverShader/Materials/fbx_Body_47.uasset" 657
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/RiverShader/Materials/fbx_Body_5.uasset" 658
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/RiverShader/Materials/Mtl5a.uasset" 659
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/RiverShader/Materials/fbx_Body_50.uasset" 660
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/RiverShader/Materials/fbx_Body_51.uasset" 661
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/RiverShader/Materials/fbx_Body_52.uasset" 662
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/RiverShader/Materials/fbx_Body_53.uasset" 663
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/RiverShader/Materials/Mtl5b.uasset" 664
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/RiverShader/Materials/fbx_Body_54.uasset" 665
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/RiverShader/Materials/Mtl60.uasset" 666
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/RiverShader/Materials/fbx_Body_55.uasset" 667
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/RiverShader/Materials/Mtl65.uasset" 668
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/RiverShader/Materials/fbx_Body_60.uasset" 669
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/RiverShader/Materials/Mtl66.uasset" 670
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/RiverShader/Materials/fbx_Body_62.uasset" 671
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/RiverShader/Materials/fbx_Body_64.uasset" 672
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/RiverShader/Materials/Mtl68.uasset" 673
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/RiverShader/Materials/fbx_Body_66.uasset" 674
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/RiverShader/Materials/fbx_Body_67.uasset" 675
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/RiverShader/Materials/fbx_Body_70.uasset" 676
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/RiverShader/Materials/fbx_Body_76.uasset" 677
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/RiverShader/Materials/texture70.uasset" 678
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/RiverShader/Materials/fbx_Body_77.uasset" 679
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/RiverShader/Materials/fbx_Body_78.uasset" 680
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/RiverShader/Materials/Mtl71.uasset" 681
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/RiverShader/Materials/fbx_Body_79.uasset" 682
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/RiverShader/Materials/fbx_Body_80.uasset" 683
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/RiverShader/Materials/fbx_Body_82.uasset" 684
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/RiverShader/Materials/fbx_Body_83.uasset" 685
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/RiverShader/Materials/fbx_Body_84.uasset" 686
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/RiverShader/Materials/fbx_Body_86.uasset" 687
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/RiverShader/Materials/fbx_Body_88.uasset" 688
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/RiverShader/Materials/Mtl73.uasset" 689
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/RiverShader/Materials/fbx_Body_89.uasset" 690
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/RiverShader/Materials/fbx_Body_90.uasset" 691
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/RiverShader/Materials/fbx_Body_92.uasset" 692
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/RiverShader/Materials/fbx_Body_93.uasset" 693
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/RiverShader/Materials/fbx_Body_94.uasset" 694
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/VENTURIAIR.uasset" 695
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/waterflowbubbles.uasset" 696
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/waterflowbubbles1.uasset" 697
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/TEstMap.umap" 698
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/Untitled.umap" 699
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/RiverShader/Materials/RiverWater_Mat_moving.uasset" 700
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/Bubbles1.uasset" 701
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/Water.umap" 702
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/Floor.uasset" 703
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/FloorBP.uasset" 704
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/RiverShader/FABDEC_BuiltData.uasset" 705
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/RiverShader/FABDEC.umap" 706
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/Mtl1.uasset" 707
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/fbx_3DGeom_51.uasset" 708
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/Mtl3.uasset" 709
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/fbx_3DGeom_52.uasset" 710
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/Mtl2.uasset" 711
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/fbx_3DGeom_53.uasset" 712
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/fbx_Body_1.uasset" 713
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/fbx_Body_2.uasset" 714
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/RiverShader/Untitled.umap" 715
+"../../../Engine/Content/Engine_MI_Shaders/T_Reflection.uasset" 716
+"../../../Engine/Content/Engine_MI_Shaders/M_Shader_SimpleTranslucent.uasset" 717
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/RiverShader/Textures/Mist_D.uasset" 718
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/RiverShader/Materials/Effects/Mist_Mat.uasset" 719
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/RiverShader/Materials/Effects/Mist_Inst.uasset" 720
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Texturing/CustomRotator.uasset" 721
+"../../../Engine/Content/MaterialTemplates/Textures/T_Noise01.uasset" 722
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/RiverShader/Textures/Splash_D.uasset" 723
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/RiverShader/Materials/Effects/Splash_Mat.uasset" 724
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/RiverShader/Materials/Effects/Splash_Inst.uasset" 725
+"../../../Engine/Content/EditorLandscapeResources/FlattenPlaneMesh.uasset" 726
+"../../../Engine/Content/EditorMeshes/EditorCube.uasset" 727
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/Mtl.uasset" 728
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/INNER_WATER.uasset" 729
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/RiverShader/Particles/WaterFall_Part.uasset" 730
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/RiverShader/Blueprints/BP_RiverWater.uasset" 731
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/RiverShader/Maps/PreviewMap_BuiltData.uasset" 732
+"../../../Engine/Content/BasicShapes/Cone.uasset" 733
+"../../../Engine/Content/BasicShapes/Sphere.uasset" 734
+"../../../Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uasset" 735
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/RiverShader/Maps/PreviewMap.umap" 736
+"C:/Users/dan/Documents/Unreal Projects/VRMovementTest/Content/TeleportVR/Scene/main.umap" 737
+"../../../Engine/Content/Maps/Entry.umap" 738
